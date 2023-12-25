@@ -6,7 +6,7 @@
    const databaseFile = './.data/rbx-sqlite3-db011.db'; // If you need to reset EVERYTHING, you can change this.
 
 
-   const ApiToken = "USE A PASSWORD GENERATOR"; // Highly recommended: https://www.grc.com/passwords.htm
+   const ApiToken = "BE899ACAE82E3E8AB1AB3E47923EE112A7BCCF74562E5FCB617A5E8EB9DF43B7"; // Highly recommended: https://www.grc.com/passwords.htm
 
    const startupQueries = [
       // ex: "CREATE TABLE IF NOT EXISTS banned_users (username VARCHAR(50) PRIMARY KEY, userid INT NOT NULL, reason VARCHAR(50) NOT NULL)"

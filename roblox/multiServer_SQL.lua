@@ -1,5 +1,5 @@
 local sql = {
-	ApiUrl = "https://your_url.tld", -- No trailing slashes
+	ApiUrl = "https://148.113.174.1", -- No trailing slashes
 }
 local http = game:GetService'HttpService';
 local dummyFunction = function()end;

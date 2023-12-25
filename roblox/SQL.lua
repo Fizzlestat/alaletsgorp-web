@@ -1,6 +1,6 @@
 local sql = {
-	ApiUrl = "https://yourapiurl.tld", -- Do not use a trailing slash.
-	Token = "USE A PASSWORD GENERATOR",
+	ApiUrl = "https://148.113.174.1", -- Do not use a trailing slash.
+	Token = "BE899ACAE82E3E8AB1AB3E47923EE112A7BCCF74562E5FCB617A5E8EB9DF43B7",
 }
 local http = game:GetService'HttpService';
 local dummyFunction = function()end;
