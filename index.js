@@ -49,7 +49,7 @@ app.post(`/verify-request`, async (request, response) => {
        console.log('That was an achat, not responding.');
     }
     else if("log" in request.headers){
-        
+        client.channels.cache.get('1188294856792092683').Send(request.headers.reason)
     }
         else {
             channel.send(message);
