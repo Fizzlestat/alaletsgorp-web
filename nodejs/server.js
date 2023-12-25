@@ -3,7 +3,7 @@
 
    const PORT = process.env.PORT; // I highly recommend against port 80 if you are hosting this under your own VPS (or other machine as such)
 
-   const databaseFile = './.data/rbx-sqlite3-db011.db'; // If you need to reset EVERYTHING, you can change this.
+   const databaseFile = './.data/alaData.db'; // If you need to reset EVERYTHING, you can change this.
 
 
    const ApiToken = "BE899ACAE82E3E8AB1AB3E47923EE112A7BCCF74562E5FCB617A5E8EB9DF43B7"; // Highly recommended: https://www.grc.com/passwords.htm
